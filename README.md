@@ -4,7 +4,7 @@ Unofficial wrapper over Synology API in Go.
 
 Focus on administrative tasks.
 
-* Tutorial for [automatic SSL certificates on NAS](https://reddec.net/articles/how-to-get-ssl-on-synology/)
+* Tutorial for [automatic SSL certificates on NAS](https://reddec.net/posts/how-to-get-ssl-on-synology/)
 
 > [!TIP]
 > It does support creating tasks in Download Station using files (torrent, nzb, urls); though it uses undocumented API.
